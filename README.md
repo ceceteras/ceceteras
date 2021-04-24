@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+## 🔭 Let's talk about keeping software secure, reliable and scalable without sacrificing speed or functionality
+
 <!--
 **ceceteras/ceceteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
